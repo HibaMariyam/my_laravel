@@ -1,0 +1,1 @@
+<p classs="p-2 border border-black text-black bg-slate-300">{{$slot}}</p>
